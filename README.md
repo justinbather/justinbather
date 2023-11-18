@@ -1,24 +1,25 @@
 ### Hi there 👋
 
-## Welcome to my collection of projects I've built in the past, from C and Python to TypeScript and Rust
+#### Welcome to my portfolio of projects, from JS to Python to Rust and Go
 
 I have a passion for solving data structure and algorithm problems, building full-stack applications, and building command line tools.
 
-I currently run Scaleware, a software development company. We help businesses relieve bottle necks in their model with software.
+I currently run Scaleware, a software development company helping businesses relieve bottle necks in their model with software.
 
-## Client software:
-- The Lazarus Method: A patient success platform for the in-house natural medicine program by Dr. Ryan Lazarus
-    This allowed Dr. Lazarus to scale his program since he is no longer 100% tied to patient appointments. The application
-    took away a lot of the admin and check-in work require to run his program. The
-    #### Built with Python, Django, PostgreSQL, Heroku
+## Notable software:
+- AlgoRace: A Multiplayer 'Leetcode' style game, allowing users to race eachother to solve DSA's first and practice what they know. This is a larger             project, consisting of 3 services + the frontend, featuring a remote compiler, a worker service, a manager service, and main service for user auth and       data fetching. Built on Node with RabbitMQ, Docker, some Bash, and MongoDB, we can safely compile user code and test against our test cases, returning t     the output from their solutions.
+    #### NodeJS, Docker, Bash, RabbitMQ, MongoDB, Microservice Architecture
+
+- Patient Tracking Platform: A patient success platform for the in-house natural medicine program.
+    This was one of my first projects in terms of client work. Focusing on the algorithm to determine real-time stats for the patients to view, I built the      application from start to finish. 
+    #### Python, Django, PostgreSQL, Heroku
 
 - The Fort: A gym management solution software, modernizing how gyms run their trainer schedules, clients, and events.
-    This software will enable The Fort to have a central source for doing everything, except for working out (for now..).
-    #### Built with NodeJS, ExpressJS, ReactJS, MongoDB, Heroku + Vercel
-  #### Integrates Stripe
+    This software will enable The Fort to have a central source for doing everything. As the lead engineer I was in charge of system design, interface           design, and built this from the ground up.
+    #### NodeJS, ExpressJS, ReactJS, MongoDB, Heroku + Vercel
 
 
-#### Currently interested in Rust and making Node performant
+#### I am excited primarily by backend development, building cool stuff that I find useful, and hopefully other people too!
 
 #### Any inquiries or job opportunities please email: justinbather33@gmail.com
 
