@@ -1,5 +1,7 @@
 Currently building and scaling customer identification and investigation systems.
 
-I enjoy long walks on the beach and spending 10 hours building something to save me 5 minutes the next time around.
+I enjoy hacking away on low-level projects, and am passionate about understanding the things we use everyday. 
+
+Java + Go at work, Rust + Go for fun.
 
 Any inquiries please email: justinbather33@gmail.com
