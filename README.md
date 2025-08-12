@@ -1,3 +1,5 @@
+Semi-decent endurance athlete, professional carb consumer, not a terrible engineer
+
 Currently building and scaling customer identification and investigation systems.
 
 I enjoy hacking away on low-level projects, and am passionate about understanding the things we use everyday. 
