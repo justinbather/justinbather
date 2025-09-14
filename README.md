@@ -10,5 +10,5 @@ previously:
 
 currently:
 > senior software engineer (gopher-lang) @ napier ai
-> building a frictionless rental application platform, glassgaff
+> building a frictionless rental application platform - glassgaff
 ```
