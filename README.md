@@ -6,4 +6,4 @@ I enjoy hacking away on low-level projects, and am passionate about understandin
 
 Java + Go at work, Rust + Go for fun.
 
-Any inquiries please email: justinbather33@gmail.com
+Any inquiries please email: me@justinbather.sh
