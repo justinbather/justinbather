@@ -1,9 +1,9 @@
 Semi-decent endurance athlete, professional carb consumer, not a terrible engineer
 
-Currently building and scaling customer identification and investigation systems.
+Currently building and scaling AML (identity verification & sanctions screening) systems
 
 I enjoy hacking away on low-level projects, and am passionate about understanding the things we use everyday. 
 
-Java + Go at work, Rust + Go for fun.
+Go at work, everything else for fun.
 
 Any inquiries please email: me@justinbather.sh
