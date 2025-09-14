@@ -1,3 +1,19 @@
+enjoy some coffee while you stalk
+```
+(  )   (   )  )
+       ) (   )  (  (
+       ( )  (    ) )
+       _____________
+      <_____________> ___
+      |             |/ _ \
+      |               | | |
+      |               |_| |
+   ___|             |\___/
+  /    \___________/    \
+  \_____________________/
+```
+
+
 Semi-decent endurance athlete, professional carb consumer, not a terrible engineer
 
 Currently building and scaling AML (identity verification & sanctions screening) systems
