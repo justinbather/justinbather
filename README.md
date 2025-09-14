@@ -13,4 +13,4 @@ currently:
 > senior software engineer (gopher-lang) @ napier ai
 > building a frictionless rental application platform - glassgaff
 ```
-[![LinkedIn](https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/justinbather)
+![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/justinbather)
