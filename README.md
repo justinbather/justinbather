@@ -11,7 +11,7 @@ previously:
 
 currently:
 > senior software engineer (gopher-lang) @ napier ai
-> building a frictionless rental application platform - glassgaff
+> building rentsensei
 ```
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinbather)
 [![Portfolio](https://img.shields.io/badge/%24%3E_justinbather.sh-o?style=for-the-badge&color=black)
