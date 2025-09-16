@@ -16,3 +16,5 @@ currently:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinbather)
 [![Portfolio](https://img.shields.io/badge/%24%3E_justinbather.sh-o?style=for-the-badge&color=black)
 ](https://justinbather.sh)
+[![RentSensei](https://img.shields.io/badge/rentsensei.com-o?style=for-the-badge&color=f11c24)
+](https://rentsensei.com)
