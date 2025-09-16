@@ -1,4 +1,4 @@
-```
+```bash
 decent endurance athlete, pro carb consumer, excellent bug writer
 
 nearly 2 years experience building AML/KYC software
