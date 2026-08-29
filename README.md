@@ -1,7 +1,7 @@
 ```bash
 decent endurance athlete, pro carb consumer, excellent bug writer
 
-nearly 2 years experience building AML/KYC software
+>3 years experience building in fintech
 
 previously:
 > founded and exited a home contracting company - stain n seal refinishing
