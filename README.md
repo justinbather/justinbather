@@ -10,10 +10,8 @@ previously:
 
 currently:
 > senior software engineer @ apex fintech solutions
-> building inquilio.com
+> scaling nourishhealth.app
 ```
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinbather)
 [![Portfolio](https://img.shields.io/badge/%24%3E_justinbather.sh-o?style=for-the-badge&color=black)
 ](https://justinbather.sh)
-[![inquilio](https://img.shields.io/badge/inquilio.com-o?style=for-the-badge&color=1518CB)
-](https://inquilio.com)
