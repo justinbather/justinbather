@@ -1,5 +1,5 @@
 ```bash
-decent endurance athlete, pro carb consumer, excellent bug writer
+decent endurance athlete, pro carb consumer, excellent bug inventor
 
 +3 years experience building in fintech
 
